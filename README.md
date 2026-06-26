@@ -18,7 +18,7 @@ Developed by **Rozix Systems**.
 ## Screenshot
 
 <p align="center">
-  <img src="rozixpdftools.png">
+  <img src="https://github.com/sherifmousa707-droid/rozix-pdf-converter/blob/main/rozixpdftools.png">
 </p>
 
 ## Platform
