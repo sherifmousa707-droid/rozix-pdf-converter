@@ -14,7 +14,7 @@ A free Windows application developed by **Rozix Systems** for converting Office 
 
 ## Screenshot
 
-![](assets/screenshots/Screenshot (8).png)
+![](Screenshot%20(8).png)
 
 ## Platform
 
