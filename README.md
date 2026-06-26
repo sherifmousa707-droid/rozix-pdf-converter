@@ -15,7 +15,7 @@ A free Windows application developed by **Rozix Systems** for converting Office 
 
 ## Screenshot
 
-![Rozix PDF Converter](rozixpdftools.png)
+![Rozix PDF Converter](https://raw.githubusercontent.com/sherifmousa707-droid/rozix-pdf-converter/main/rozixpdftools.png)
 
 ## Platform
 
