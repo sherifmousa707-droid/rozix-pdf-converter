@@ -18,7 +18,7 @@ Developed by **Rozix Systems**.
 ## Screenshot
 
 <p align="center">
-  <img src="rozixpdftools.png" width="800">
+  <img src="rozixpdftools.png">
 </p>
 
 ## Platform
