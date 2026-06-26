@@ -1,0 +1,25 @@
+```text
+Rozix Systems Software License
+
+Copyright (c) 2026 Rozix Systems.
+All rights reserved.
+
+This software is the property of Rozix Systems.
+
+Permission is granted to download and use this software for personal or commercial purposes.
+
+You may NOT:
+
+- Copy, modify, or redistribute the source code.
+- Reverse engineer, decompile, or disassemble the software.
+- Sell, sublicense, or redistribute the software without written permission.
+- Remove or alter any copyright notices.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+For business inquiries:
+GitHub: https://github.com/sherifmousa707-droid
+Facebook: https://www.facebook.com/RozixSystems
+
+© 2026 Rozix Systems. All rights reserved.
+```
