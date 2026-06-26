@@ -1,4 +1,3 @@
-```markdown
 # Rozix PDF Converter
 
 A free Windows application developed by **Rozix Systems** for converting Office documents, images, and text files into high-quality PDF documents.
@@ -33,4 +32,3 @@ A free Windows application developed by **Rozix Systems** for converting Office 
 ---
 
 © Rozix Systems. All rights reserved.
-```
